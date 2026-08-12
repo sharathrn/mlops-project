@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction Model – Your First MLOps Project (FastAPI + Docker + K8s)
 
-> 🎥 YouTube video for the project: **"Build Your First MLOps Project"**
+> 🎥  **"Build Your First MLOps Project"**
 
 This project helps you learn **Building and Deploying an ML Model** using a simple and real-world use case: predicting whether a person is diabetic based on health metrics. We’ll go from:
 
@@ -11,6 +11,9 @@ This project helps you learn **Building and Deploying an ML Model** using a simp
 - ✅ Kubernetes Deployment
 
 ---
+## 📊 Source Data for Model training
+
+https://raw.githubusercontent.com/plotly/datasets/master/diabetes.csv
 
 ## 📊 Problem Statement
 
